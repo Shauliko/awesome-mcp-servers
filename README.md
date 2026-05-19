@@ -520,6 +520,7 @@ Run commands, capture output and otherwise interact with shells and command line
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
+- [Shauliko/mcp-server](https://github.com/Shauliko/mcp-server) - Real US carrier phone numbers via API. Provision AT&T / T-Mobile / MVNOs prepaid lines, receive SMS verification codes — passes VoIP-detection on Cash App, Coinbase, Tinder, banking apps.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
 - [bababoi-bibilabu/agent-mq](https://github.com/bababoi-bibilabu/agent-mq) [![agent-mq MCP server](https://glama.ai/mcp/servers/bababoi-bibilabu/agent-mq/badges/score.svg)](https://glama.ai/mcp/servers/bababoi-bibilabu/agent-mq) 📇 ☁️ 🏠 - Message queue for AI coding assistants. Let AI agents (Claude Code, Cursor, Codex) send messages to each other across sessions and machines. UUID-based auth, self-hostable.
